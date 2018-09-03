@@ -47,7 +47,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: e17b96cdc952fc14f9df0001b002da45, type: 3}
   - {fileID: 21300000, guid: 4e3da88981449fd45809924386f7eed1, type: 3}
   - {fileID: 21300000, guid: 285b58356308ad444b33af74ca18e87a, type: 3}
-  AutoNativeSize: 1
+  AutoNativeSize: 0
 --- !u!114 &114663695881904684
 MonoBehaviour:
   m_ObjectHideFlags: 1
